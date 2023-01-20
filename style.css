@@ -1,0 +1,35 @@
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(255, 246, 236) 39.5%,
+    rgba(100, 46, 122, 0.23) 100.2%
+  );
+}
+
+h1,
+p {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  line-height: 1.5;
+  font-weight: 300px;
+}
+.links {
+  text-align: center;
+  padding: 20px;
+}
+a {
+  margin: 40px;
+  color: #c24d2c;
+}
+.croissant-photo {
+  max-width: 60%;
+  display: block;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+.email-link {
+  margin-left: 5px;
+  color: blueviolet;
+}
